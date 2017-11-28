@@ -9,3 +9,10 @@ body {
 #New{
     color:white;
 }
+p {
+    border-left: 5px ;
+    padding:100px;
+        margin:20px;
+       width:25%;
+    height:50;
+}
