@@ -1,2 +1,5 @@
 # NYG1
-1-7 still fighting maybe theres still a chance for the wildcard lols
+Ended 3-13 always next year 
+Hopeing the eagles don't win the superbowl
+Lets go GIANTS!!!!!!
+
